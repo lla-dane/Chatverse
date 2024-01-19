@@ -8,7 +8,7 @@ https://github.com/lla-dane/Chatverse/assets/120122716/a3e4855e-e35f-4bdf-95b9-e
 
 ### Features
 
-#### 1) Implemented the authentication using JWT token in the backend the storing a token and states in the frontend usig react redux.
+#### 1) Implemented the authentication using JWT token in the backend and storing the token and states in the frontend usig react redux.
 
 #### 2) Picture upload added using multer in the register page and the home page.
 
