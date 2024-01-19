@@ -4,4 +4,5 @@
 
 ## Here is a video demonstration
 
-<ifarme width="560" height="315" src="demo/Chatverse">frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://github.com/lla-dane/Chatverse/assets/120122716/a3e4855e-e35f-4bdf-95b9-ef308f8a96f5
+
