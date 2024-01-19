@@ -32,7 +32,7 @@ const LoginPage = () => {
           sx={{ mb: "1.5rem" }}
           textAlign="center"
         >
-          A Social Media for who knows what
+          Capture and share your dialy moments and inspirations !
         </Typography>
         <Form />
       </Box>
